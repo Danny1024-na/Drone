@@ -14,6 +14,8 @@
 .bodyStyle{
     background-color: black; 
     color:#C7FFF9 ;
+    font-family: 'Aref Ruqaa Ink', serif;
+    font-family: 'Shalimar', cursive;
 }
 
 .skyPhotos{
@@ -31,7 +33,7 @@
 }
 
 .button{
-    padding: 12px 40px;
+    padding: 9px 30px;
     font-size: 18px;
     font-weight: 600;
     border: 1px solid #F09B59;
